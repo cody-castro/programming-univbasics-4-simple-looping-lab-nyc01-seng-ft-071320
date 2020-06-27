@@ -23,5 +23,6 @@ def return_string_array(array)
   while count < array.length do
     array[count].to_s
     count += 1
+    p (array)
   end
 end
