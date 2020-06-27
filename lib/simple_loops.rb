@@ -19,5 +19,5 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array.in_s
+  array.to_s
 end
